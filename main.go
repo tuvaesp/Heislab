@@ -1,8 +1,9 @@
 package main
 
 import (
-	"example.com/m/hellos"
 	"fmt"
+
+	"example.com/m/hellos"
 )
 
 func main() {
@@ -10,4 +11,5 @@ func main() {
 	fmt.Println("Helloooo from Tuva")
 	fmt.Println("Aaaaaa from Karin")
 	fmt.Println(hellos.HellosFromAll())
+	fmt.Println("fungere dette?")
 }

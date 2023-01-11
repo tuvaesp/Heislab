@@ -1,1 +1,1 @@
-package hellos
+package greetings

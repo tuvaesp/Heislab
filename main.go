@@ -11,5 +11,5 @@ func main() {
 	fmt.Println("Helloooo from Tuva")
 	fmt.Println("Aaaaaa from Karin")
 	fmt.Println(greetings.HellosFromAll())
-	fmt.Println("fungere dette?")
+	fmt.Println(greetings.ByeToAll())
 }

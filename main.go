@@ -4,6 +4,7 @@ import (
 	"fmt"
 
 	"example.com/m/greetings"
+	"example.com/m/hellos"
 )
 
 func main() {
@@ -12,4 +13,5 @@ func main() {
 	fmt.Println("Aaaaaa from Karin")
 	fmt.Println(greetings.HellosFromAll())
 	fmt.Println(greetings.ByeToAll())
+	fmt.Println(hellos.Tester())
 }

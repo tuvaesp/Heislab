@@ -1,0 +1,1 @@
+go doc (followed by the package name shows the documentation for the package)
